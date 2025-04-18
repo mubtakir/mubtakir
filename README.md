@@ -13,6 +13,6 @@ With the rise of language models, I have come to rely on them for formulating my
 
 ## Contact Me
 You can reach me via:
-- [[Your GitHub Profile Link](https://github.com/mubtakir)](#)
+- (https://github.com/mubtakir)](#)
 
 Thank you for visiting!
